@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://adrienbuffin1-sketch.github.io/sitemap.xml
